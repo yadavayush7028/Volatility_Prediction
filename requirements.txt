@@ -5,3 +5,5 @@ selenium==4.23.1
 beautifulsoup4==4.12.3
 webdriver-manager==4.0.2
 statsmodels==0.14.2
+folium==0.17.0
+shapely==2.0.6
