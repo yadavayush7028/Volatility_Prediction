@@ -7,3 +7,4 @@ webdriver-manager==4.0.2
 statsmodels==0.14.2
 folium==0.17.0
 shapely==2.0.6
+arch==7.0.0
